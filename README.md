@@ -8,8 +8,8 @@ El informe completo y las visualizaciones están dentro del notebook del proyect
 
 ## 📂 Estructura del proyecto
 
-- **/notebooks** → Notebook principal con el análisis: `TelecomX_LATAM_final.ipynb`.
-- **/data** → Dataset original (`TelecomX_Data.json`).
+- **Notebooks** → Notebook principal con el análisis: `TelecomX_LATAM_final.ipynb`.
+- **Data** → Dataset original (`TelecomX_Data.json`).
 - **README.md** → Este documento.
 
 > El notebook carga, limpia y estandariza las columnas; realiza EDA (tablas y gráficos), y cierra con hallazgos y recomendaciones.
